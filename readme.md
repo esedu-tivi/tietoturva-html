@@ -8,23 +8,23 @@ Laadi omat verkkosivut HTML- ja CSS-tekniikoilla, joilla esittelet asiakkaalle t
 
 Voit rakentaa sivuston esimerkiksi seuraavalla rakenteella:
 
-**1. Etusivu (index.html)**
+1. **Etusivu (index.html)**
     - Tervetuloa-teksti
     - Lyhyt kuvaus sivuston sisällöstä
     - Navigointilinkit muihin osioihin
-**2. Tietoturvan perusteet (tietoturva.html)**
+2. **Tietoturvan perusteet (tietoturva.html)**
     - Virustorjunta: teksti + kuva
     - Palomuuri: teksti + kuva
     - Kyberturvallisuus: teksti + kuva
     - DMZ: teksti + kuva
     - GDPR: teksti + kuva
-**3. Huoneentaulu (huoneentaulu.html)**
+3. **Huoneentaulu (huoneentaulu.html)**
     - A4-kokoinen ohjeistus turvalliseen tietotekniikkatyöhön
     - Voit käyttää listoja, värejä ja ikoneita havainnollistamiseen
-**4. Virustorjuntaohjelmistot (virustorjunta.html)**
+4. **Virustorjuntaohjelmistot (virustorjunta.html)**
     - Vertailu kahden kaupallisen ja kahden ilmaisen ohjelmiston välillä
     - Valitse yksi ilmainen ohjelma ja perustele valinta
-**5. Käyttöohje (ohje.html)**
+5. **Käyttöohje (ohje.html)**
     - Ohjeet valitsemasi virustorjunnan käyttöön
     - Automaattinen tarkistus
     - Manuaalinen tarkistus
