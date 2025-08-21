@@ -2,7 +2,7 @@
 
 ## 🎯 Projektin tavoite
 
-Laadi omat verkkosivut HTML- ja CSS-tekniikoilla, joilla esittelet asiakkaalle tietoturvan perusteet. Sivujen tulee olla selkeitä, visuaalisesti miellyttäviä ja informatiivisia. Tämä toimii sekä tietoturvaesitelmänä että verkkosivujen harjoituksena.
+Laadi omat verkkosivut HTML- ja CSS-tekniikoilla, joilla esittelet asiakkaalle tietoturvan perusteet. Sivujen tulee olla selkeitä, visuaalisesti miellyttäviä ja informatiivisia. Tämä toimii sekä tietoturvaesitelmänä että verkkosivujen harjoituksena. Jos HTML- ja CSS-tekniikat eivät ole ennestään tuttuja, on tarpeen aluksi tutustua materiaalissa oleviin videoihin ja linkkeihin, niin pääset alkuun.
 
 ## 🧩 Sivuston rakenne-ehdotus
 
